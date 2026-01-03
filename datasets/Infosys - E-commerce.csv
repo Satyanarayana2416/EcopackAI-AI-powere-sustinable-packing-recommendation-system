@@ -1,0 +1,26 @@
+Material_ID,Eco Alternative,Category,Weight_Capacity_Upto,Water_Resistance,Cost (₹)
+ECS001,Corrugated Cardboard,Clothing,1 kg,No,5–10
+ECS002,Kraft Paper Mailers,Electronics,5 kg,Yes,15–30
+ECS003,Recycled Paper Padded Envelopes,Laptops,10 kg,Yes,50–80
+ECS004,Molded Pulp Trays,Books,2 kg,No,5–8
+ECS005,Biodegradable Bubble Wrap,Footwear,3 kg,No,10–20
+ECS006,Paper Tape,Accessories,1 kg,No,5–15
+ECS007,Plant-Based Cushioning,Home Decor,5 kg,Yes,20–40
+ECS008,Recycled Cartons,Kitchenware,4 kg,Yes,15–25
+ECS009,Cornstarch Packaging,Toys,2 kg,No,5–15
+ECS010,Paper Void Fill,Beauty Products,1 kg,Yes,10–20
+ECS011,Kraft Wrap Sheets,Clothing,2 kg,No,5–12
+ECS012,Recycled Mailers,Electronics,4 kg,Yes,12–28
+ECS013,Biodegradable Poly Mailers,Books,2 kg,Yes,8–15
+ECS014,Seed Paper Packaging,Accessories,1 kg,No,7–18
+ECS015,Mushroom Packaging,Fragile Items,3 kg,Yes,20–35
+ECS016,Paper Cushion Wrap,Footwear,3 kg,No,8–15
+ECS017,Recycled Cardboard Boxes,Clothing,1 kg,No,5–10
+ECS018,Kraft Paper Roll,Home Decor,5 kg,Yes,15–25
+ECS019,Compostable Bubble Wrap,Electronics,5 kg,Yes,20–35
+ECS020,Paper-Based Tape,Laptops,10 kg,Yes,12–30
+ECS021,Cardboard Inserts,Beauty Products,1 kg,No,5–10
+ECS022,Recyclable Cushioning,Kitchenware,4 kg,Yes,10–25
+ECS023,Kraft Envelopes,Books,2 kg,No,4–8
+ECS024,Cornstarch Peanut Packaging,Electronics,5 kg,Yes,15–30
+ECS025,Biodegradable Air Pillows,Fragile Items,3 kg,Yes,10–20
